@@ -18,6 +18,9 @@ The project uses a small dataset of 11 customers and visualizes the clusters in 
 - Scatter plot showing customer groups with different colors.
 - Table displaying each customer's assigned cluster.
 
+  <img width="468" height="496" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/eada1c77-00a6-4ec8-9254-b863d2f28f97" />
+
+
 ## Author
 Ritika Hooda
 
